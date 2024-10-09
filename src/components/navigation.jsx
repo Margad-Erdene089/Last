@@ -30,7 +30,7 @@ export const Navigation = (props) => {
         >
           <ul className="nav navbar-nav navbar-right">
             <li>
-              <a href="#features" className="page-scroll">
+              <a href="/" className="page-scroll">
               Нүүр Хуудас
               </a>
             </li>

@@ -6,29 +6,28 @@ export const Gallery = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Gallery</h2>
+          <h2>Салбарууд</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Монгол улсын 21 аймгийн Facebook хаяг
           </p>
         </div>
         <div className="row">
-          <div className="portfolio-items">
-            {props.data
-              ? props.data.map((d, i) => (
-                  <div
-                    key={`${d.title}-${i}`}
-                    className="col-sm-6 col-md-4 col-lg-4"
-                  >
-                    <Image
-                      title={d.title}
-                      largeImage={d.largeImage}
-                      smallImage={d.smallImage}
-                    />
-                  </div>
-                ))
-              : "Loading..."}
-          </div>
+        <div className="portfolio-items">
+              {props.data
+                 ? props.data.map((d, i) => (
+                   <div key={`${d.title}-${i}`} className="col-sm-6 col-md-4 col-lg-4">
+                <a href={d.url} target="_blank" rel="noopener noreferrer">
+                  <Image
+                   title={d.title}
+                    smallImage={d.smallImage}
+                    className="custom-image"
+            />
+          </a>
+        </div>
+      ))
+          : "Loading..."}
+             </div>
+
         </div>
       </div>
     </div>

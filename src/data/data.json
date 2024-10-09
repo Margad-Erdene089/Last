@@ -21,49 +21,109 @@
   "Gallery": [
     {
       "title": "Архангай",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "smallImage": "img/portfolio/01-small.jpg",
+      "url": "https://www.facebook.com/arkhangaihan"
     },
     
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Баян-Өлгий",
+      "smallImage": "img/portfolio/02-small.svg",
+      "url": "https://www.facebook.com/arkhangaihan"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
+      "title": "Баянхонгор",
+     
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Булган",
+      
+      "smallImage": "img/portfolio/04-small.svg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Говь-Алтай",
+      
+      "smallImage": "img/portfolio/05-small.svg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "Говьсүмбэр",
+      
+      "smallImage": "img/portfolio/06-small.svg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "Дархан-Уул",
+      
+      "smallImage": "img/portfolio/07-small.svg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "Дорноговь",
+      
+      "smallImage": "img/portfolio/08-small.svg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Дорнод",
+      
+      "smallImage": "img/portfolio/09-small.svg"
+    },
+    {
+      "title": "Дундговь",
+      
+      "smallImage": "img/portfolio/10-small.svg"
+    },
+    {
+      "title": "Завхан",
+      
+      "smallImage": "img/portfolio/11-small.svg"
+    },
+    {
+      "title": "Орхон",
+      
+      "smallImage": "img/portfolio/12-small.png"
+    },
+    {
+      "title": "Өвөрхангай",
+      
+      "smallImage": "img/portfolio/13-small.svg"
+    },
+    {
+      "title": "Өмнөговь",
+      
+      "smallImage": "img/portfolio/14-small.svg"
+    },
+    {
+      "title": "Сүхбаатар",
+      
+      "smallImage": "img/portfolio/15-small.svg"
+    },
+    {
+      "title": "Сэлэнгэ",
+      
+      "smallImage": "img/portfolio/16-small.svg"
+    },
+    {
+      "title": "Төв",
+      
+      "smallImage": "img/portfolio/17-small.svg"
+    },
+    {
+      "title": "Увс",
+      
+      "smallImage": "img/portfolio/18-small.svg"
+    },
+    {
+      "title": "Ховд",
+      
+      "smallImage": "img/portfolio/19-small.svg"
+    },
+    {
+      "title": "Хөвсгөл",
+      
+      "smallImage": "img/portfolio/20-small.svg"
+    },
+    {
+      "title": "Хэнтий",
+      
+      "smallImage": "img/portfolio/21-small.svg"
     }
   ],
   "Services": [
