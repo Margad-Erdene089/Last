@@ -1,7 +1,7 @@
 {
 
-  "homepage": "https://margad-erdene089.github.io/Last",
-  "name": "Last",
+  "homepage": "https://margad-erdene089.github.io/SD",
+  "name": "sd",
   "private": true,
   "dependencies": {
     "@react-google-maps/api": "^2.19.3",
